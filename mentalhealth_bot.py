@@ -4,7 +4,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 
 
-TOKEN : Final = '6947461946:AAFNoU8xyXugkGGhYEZ8JMJB1yJFFISiagQ'
+TOKEN : Final = 'api token '
 BOT_USERNAME: Final = '@mentalhealthbot_bot'
 
 # commands
